@@ -1,2 +1,3 @@
 # IR_OBSTACLE_SENSOR
 In this project we are going to make a Obstacle sensor without the Help of any Microcontroller. Obstacle sensor have many uses . since we are not using any microcontroller , so this project is cheaper also. Most importantly we can extend this project to Fire alarm system etc. 
+So, in this project we are constructing a IR Obstacle sensor without using of any type of Microcontroller. So, in this sensor we use resistors, IR sensor, NPN transistor, buzzer, led, battery, jumper wires on breadboard. We connected it with the and gate IC’s 74LS32 IC to activate the sensor by alarming through buzzer and LED light working.
