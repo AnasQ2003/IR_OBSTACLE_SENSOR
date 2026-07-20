@@ -1,6 +1,6 @@
-# 🚨 IR Obstacle Sensor — Microcontroller-Free
-
 <div align="center">
+
+# 🚨 IR Obstacle Sensor — Microcontroller-Free
 
 ![DLD](https://img.shields.io/badge/Digital_Logic_Design-Lab_Project-orange?style=for-the-badge)
 ![Hardware](https://img.shields.io/badge/Hardware-Breadboard_Build-red?style=for-the-badge)
@@ -159,19 +159,6 @@ For each IR sensor module:
 | **Breadboard** | Physical circuit prototyping |
 | **Multimeter** | Testing voltage levels and connections |
 | **74LS32 Datasheet** | OR gate IC reference |
-
----
-
-## 📚 Course Context
-
-| Detail | Info |
-|---|---|
-| **University** | Bahria University, Karachi Campus |
-| **Department** | Computer Sciences |
-| **Course** | Digital Logic Design (DLD) |
-| **Semester** | 2nd Semester |
-| **Project Type** | DLD Lab Final Project |
-| **Key Concepts** | OR gate logic, TTL ICs, combinational circuits, IR sensing |
 
 ---
 
