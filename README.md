@@ -5,8 +5,6 @@
 ![DLD](https://img.shields.io/badge/Digital_Logic_Design-Lab_Project-orange?style=for-the-badge)
 ![Hardware](https://img.shields.io/badge/Hardware-Breadboard_Build-red?style=for-the-badge)
 ![OR Gate](https://img.shields.io/badge/IC-74LS32_OR_Gate-blueviolet?style=for-the-badge)
-![Bahria University](https://img.shields.io/badge/Bahria_University-DLD_Lab-003087?style=for-the-badge)
-![Semester](https://img.shields.io/badge/2nd_Semester-DLD_Lab_Project-success?style=for-the-badge)
 
 A **microcontroller-free IR Obstacle Sensor** circuit built on a breadboard using purely digital logic components. The system uses two IR sensor modules wired through a **74LS32 OR gate IC** to trigger a buzzer and LED whenever an obstacle is detected — no Arduino, no code, just hardware logic.
 
