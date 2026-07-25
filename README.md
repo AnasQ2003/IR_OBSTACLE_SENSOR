@@ -14,16 +14,24 @@ A **microcontroller-free IR Obstacle Sensor** circuit built on a breadboard usin
 
 ## 📸 Project Images
 
+<div align="center">
+  
 <table>
   <tr>
-    <td align="center"><img src="screenshots/circuit_schematic.jpeg" width="440"/><br/><b>🔌 Circuit Schematic (Proteus Simulation)</b></td>
-    <td align="center"><img src="screenshots/breadboard_build.jpeg" width="440"/><br/><b>⚡ Real Breadboard Build (Active)</b></td>
+    <td align="center"><img src="screenshots/circuit_schematic.jpeg" width="100%"/><br/><b>🔌 Circuit Schematic (Proteus Simulation)</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="screenshots/breadboard_wiring_diagram.png" width="440"/><br/><b>🗺️ Wiring Diagram</b></td>
-    <td align="center"><img src="screenshots/74ls32_or_gate_pinout.png" width="440"/><br/><b>🔲 74LS32 OR Gate IC Pinout</b></td>
+    <td align="center"><img src="screenshots/breadboard_build.jpeg" width="100%"/><br/><b>⚡ Real Breadboard Build (Active)</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/breadboard_wiring_diagram.png" width="100%"/><br/><b>🗺️ Wiring Diagram</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/74ls32_or_gate_pinout.png" width="100%"/><br/><b>🔲 74LS32 OR Gate IC Pinout</b></td>
   </tr>
 </table>
+
+</div>
 
 ---
 
